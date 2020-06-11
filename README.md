@@ -16,31 +16,40 @@
 
 ## Windows 10 and the hotfixes that are needed:
 1903 (19H1): KB4515384
+
 1809 (RS5): KB4537818
+
 1803 (RS4): KB4537795
+
 1709 (RS3): KB4537816
 
 ## Enabling Live Response in MDATP Portal
 Live response
+
 https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-atp/advanced-features#live-response
 
 Autoresolve remediated alerts
+
 https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-atp/advanced-features#live-response-unsigned-script-execution
 
 ## Permissions required for Live Response
 Take response actions on a file
+
 https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-atp/respond-file-alerts
 
 ## All about Live Reponse
 Investigate entities on devices using live response
+
 https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-atp/live-response
 
 ## Starting a Live Response session
 Initiate Live Response Session
+
 https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-atp/respond-machine-alerts#initiate-live-response-session
 
 ## Troubleshooting Live Response session
 Troubleshoot Microsoft Defender Advanced Threat Protection live response issues
+
 https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-atp/troubleshoot-live-response
 
 # Contributing
