@@ -3,10 +3,15 @@
 # Resources
 ## Windows 10 versions that are supported:
 2004
+
 1909
+
 1903 (19H1)
+
 1809 (RS5) 
+
 1803 (RS4) 
+
 1709 (RS3) 
 
 ## Windows 10 and the hotfixes that are needed:
