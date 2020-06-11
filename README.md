@@ -1,5 +1,11 @@
 # m365defender
 
+Thanks for your interest in Microsoft Defender ATP (MDATP)!
+
+This repository hosts Powershell (PoSh) script samples for "Live Response" in your Microsoft Defender ATP (a part of the Microsoft 365 Threat Protection (MTP)).
+
+Any scripts that further this goal are welcome.
+
 # Resources
 ## Windows 10 versions that are supported:
 2004
