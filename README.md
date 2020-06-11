@@ -8,9 +8,9 @@ Any scripts that further this goal are welcome.
 
 # Resources
 ## Windows 10 versions that are supported:
-2004
+2004 (20H1)
 
-1909
+1909 (19H2)
 
 1903 (19H1)
 
